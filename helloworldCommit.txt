@@ -6,3 +6,5 @@ Gini will grant you 3 wishes: feel free to ask below if you are reading this:
 
 1) 6950x
 2) 
+
+git url: https://github.com/ejg1n1/GiniRepo.git
